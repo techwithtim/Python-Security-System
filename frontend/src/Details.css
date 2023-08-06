@@ -1,0 +1,17 @@
+.details-page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 10%;
+}
+
+.details-header {
+  display: flex;
+}
+
+.back-btn {
+  position: absolute;
+  left: 20px;
+  top: 20px;
+}

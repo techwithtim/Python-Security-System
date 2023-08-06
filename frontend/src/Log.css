@@ -1,0 +1,11 @@
+.log {
+  display: flex;
+  margin-bottom: 10px;
+  border: 1px black solid;
+  width: 100%;
+}
+
+.details {
+  margin-left: 10px;
+  padding: 10px;
+}
